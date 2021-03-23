@@ -1,4 +1,4 @@
-# To generate password type: gen [password length]
+# To generate password: gen [password length]
 
 import password_functions as pf
 
